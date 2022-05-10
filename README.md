@@ -1,0 +1,2 @@
+# House-Price-Prediction
+For predicting the house price I used tools like pandas, numpy, and seaborn for data manipulation, cleaning, visualization, and preparation of the data for training. Then I trained the data using linear regression model with mean squared error as the loss function and adam optimizer as the cost function in pytorch framework. After the training, I predicted the house price from the test dataset using the trained model with the best accuracy.
